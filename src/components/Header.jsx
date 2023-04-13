@@ -6,7 +6,7 @@ import NotificationsIcon from "@mui/icons-material/Notifications";
 import TextsmsIcon from "@mui/icons-material/Textsms";
 import FaceIcon from "@mui/icons-material/Face";
 import KeyboardArrowDownIcon from "@mui/icons-material/KeyboardArrowDown";
-import styled from 'styled-components';
+// import styled from 'styled-components';
 
 import { IconsWrapper, SearchBarWrapper, SearchWrapper, FollowingButton, HomePageButton, HomeButtons, LogoWrapper, Wrapper } from './Header.style';
 
